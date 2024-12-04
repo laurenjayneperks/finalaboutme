@@ -18,12 +18,6 @@ h1 {
 text-align: center;
 color: #333;
 }
-.centered-image {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 20%; 
-}
 section {
 margin-bottom: 20px;
 }
